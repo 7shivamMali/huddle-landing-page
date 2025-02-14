@@ -1,0 +1,13 @@
+Dimension:
+
+For mobile - 
+logo size (125px X 25px)
+illustration (300px X 215px)
+register (200px X 40px)
+socials (25px X 25px)
+
+For desktop - 
+logo size (200px X 35px)
+illustration (700px X 500px)
+register (200px X 56px)
+socials ()
